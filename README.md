@@ -1,5 +1,6 @@
 # Proyecto de Aprendizaje No Supervisado 
 Se tratará de encontrar el número óptimo de clusters para el dataset housing.csv y analizar los resultados.
+Todo el análisis paso a paso está especificado en el .ipynb.
 
 ## Variables del dataset:
 1. longitude: indica cuan al oeste está una casa (house); un valor más alto es más al oeste.
